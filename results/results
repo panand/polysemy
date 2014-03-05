@@ -1,0 +1,449 @@
+#
+# Results on Wednesday February 19 2014 22:22:46 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,name,er
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,age,42
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,write_something,erewrw
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,credit,yes
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,consent,yes
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,sex,male
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Form,1,0,intro,NULL,_REACTION_TIME_,10178
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,1,This,287,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,2,is,240,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,3,a,160,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,4,practice,192,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,5,sentence,200,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,6,to,192,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,7,get,208,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,8,you,208,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,9,used,208,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,10,to,216,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,11,reading,224,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,12,sentences,233,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,13,like,567,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,2,0,practice,NULL,14,this.,400,False,This is a practice sentence to get you used to reading sentences like this.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,1,This,184,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,2,is,184,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,3,another,144,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,4,practice,177,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,5,sentence,143,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,6,with,168,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,7,a,184,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,8,practice,176,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,9,question,168,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,10,following,184,False,This is another practice sentence with a practice question following it.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,3,0,practice,NULL,11,it.,264,False,This is another practice sentence with a practice question following it.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Question,3,1,practice,NULL,How would you like to answer this question?,Press 2 or click here for this answer.,NULL,1713
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,1,This,151,False,This is the last practice sentence before the experiment begins.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,2,is,501,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,3,the,83,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,4,last,83,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,5,practice,84,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,6,sentence,83,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,7,before,84,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,8,the,83,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,9,experiment,184,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,4,0,practice,NULL,10,begins.,192,False,This is the last practice sentence before the experiment begins.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,1,The,500,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,2,journalist,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,3,interviewed,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,4,an,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,5,actress,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,6,who,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,7,he,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,8,knew,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,9,to,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,10,be,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,11,shy,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,12,of,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,13,publicity,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,14,after,84,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,15,meeting,83,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,16,on,221,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,17,a,176,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,18,previous,184,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,5,0,s1,1,19,occasion.,328,False,The journalist interviewed an actress who he knew to be shy of publicity after meeting on a previous occasion.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Word number.
+#     Col. 9: Word.
+#     Col. 10: Reading time.
+#     Col. 11: Newline?
+#     Col. 12: Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Question,5,1,s1,1,The actress was:,impatient,0,1409
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,1,The,500,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Word number.
+# 9. Word.
+# 10. Reading time.
+# 11. Newline?
+# 12. Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,2,teacher,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,3,helped,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,4,struggling,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,5,students,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,6,who,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,7,without,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,8,treating,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,9,like,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,10,idiots,84,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,11,he,83,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,12,encouraged,162,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,13,to,176,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,DashedSentence,10,0,s2,2,14,succeed.,520,False,The teacher helped struggling students who without treating like idiots he encouraged to succeed.
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,Question,10,1,s2,2,What did the teacher do?,Encourage his best students to succeed,0,1041
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,12,0,q2,200,<b>Which struggling students</b> did the teacher encourage their friends to succeed without treating like idiots?
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,12,0,q2,200,NULL,5,NULL,2750
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,7,0,q1,100,Which actress did the journalist interview after meeting her PA on a previous occasion?
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1392848567,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,7,0,q1,100,NULL,6,NULL,860
+#
+# Results on Wednesday February 19 2014 22:43:17 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+# Design number was non-random = 1
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,1,0,poly,NULL,The school that is culturally diverse sits in a large valley.
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,1,0,poly,NULL,NULL,5,NULL,25942
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,0,0,poly,NULL,The school that sits in a large valley is culturally diverse.
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,0,0,poly,NULL,NULL,2,NULL,598
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,2,0,poly,NULL,The school is culturally diverse and sits in a large valley.
+1392849797,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,2,0,poly,NULL,NULL,1,NULL,445
+#
+# Results on Wednesday February 19 2014 22:49:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+# Design number was non-random = 2
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392850161,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,1,0,organization_location,3,The school that is culturally diverse sits in a large valley.
+1392850161,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,1,0,organization_location,3,NULL,3,NULL,15343
+#
+# Results on Wednesday February 19 2014 22:49:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
+# Design number was non-random = 3
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392850190,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,2,0,organization&location,a,The school is culturally diverse and sits in a large valley.
+1392850190,7edfe1c0bceed21e7ab1ce8302879785,AcceptabilityJudgment,2,0,organization&location,a,NULL,6,NULL,1409
+#
+# Results on Thursday February 20 2014 00:50:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+# Design number was non-random = 4
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392857459,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,1,0,organization_location,a,The school that is culturally diverse sits in a large valley.
+1392857459,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,1,0,organization_location,a,NULL,7,NULL,3501
+#
+# Results on Thursday February 20 2014 02:38:44 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+# Design number was non-random = 5
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392863925,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,2,0,organization&location,a,The school is culturally diverse and sits in a large valley.
+1392863925,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,2,0,organization&location,a,NULL,4,NULL,17910
+#
+# Results on Thursday February 20 2014 22:57:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+# Design number was non-random = 6
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1392937041,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,0,0,location_organization,a,The school that sits in a large valley is culturally diverse.
+1392937041,6bb78a1b36ff9db1d8203f3ff8737d5e,AcceptabilityJudgment,0,0,location_organization,a,NULL,5,NULL,9045
+#
+# Results on Monday February 24 2014 23:05:07 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+# Design number was non-random = 7
+#
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1393283108,f15aab217ee5343656675a56692da7cc,AcceptabilityJudgment,1,0,organization_location,a,The school that is culturally diverse sits in a large valley.
+1393283108,f15aab217ee5343656675a56692da7cc,AcceptabilityJudgment,1,0,organization_location,a,NULL,3,NULL,2861
