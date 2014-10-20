@@ -1,0 +1,8 @@
+.DS_Store
+*.csv
+*.pyc
+*.html
+*.txt
+.coverage
+_site
+Gemfile.lock

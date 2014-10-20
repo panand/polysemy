@@ -1,0 +1,25 @@
+list,item_1_section,item_1_number,item_1_condition,field_1_1,item_2_section,item_2_number,item_2_condition,field_2_1
+0,target,2,C,The valley of the book was poorly bound.,target,1,B,The block was poorly bound.
+1,target,1,B,The block was poorly bound.,target,2,C,The valley of the book was poorly bound.
+2,target,1,C,The cover of the book was poorly bound.,target,2,D,The valley had an ugly cover.
+3,target,2,D,The valley had an ugly cover.,target,1,C,The cover of the book was poorly bound.
+4,target,1,D,The box had an ugly cover.,target,2,E,The valley had an ugly cover.
+5,target,2,E,The valley had an ugly cover.,target,1,D,The box had an ugly cover.
+6,target,1,E,The block had an ugly cover.,target,2,F,The valley of the book had an ugly cover.
+7,target,2,F,The valley of the book had an ugly cover.,target,1,E,The block had an ugly cover.
+8,target,1,F,The cover of the book had an ugly cover.,target,2,A,The valley was poorly bound.
+9,target,2,A,The valley was poorly bound.,target,1,F,The cover of the book had an ugly cover.
+10,target,2,B,The valley was poorly bound.,target,1,A,The box was poorly bound.
+11,target,1,A,The box was poorly bound.,target,2,B,The valley was poorly bound.
+12,target,1,B,The block was poorly bound.,target,2,C,The valley of the book was poorly bound.
+13,target,2,C,The valley of the book was poorly bound.,target,1,B,The block was poorly bound.
+14,target,1,C,The cover of the book was poorly bound.,target,2,D,The valley had an ugly cover.
+15,target,2,D,The valley had an ugly cover.,target,1,C,The cover of the book was poorly bound.
+16,target,2,E,The valley had an ugly cover.,target,1,D,The box had an ugly cover.
+17,target,1,D,The box had an ugly cover.,target,2,E,The valley had an ugly cover.
+18,target,2,F,The valley of the book had an ugly cover.,target,1,E,The block had an ugly cover.
+19,target,1,E,The block had an ugly cover.,target,2,F,The valley of the book had an ugly cover.
+20,target,1,F,The cover of the book had an ugly cover.,target,2,A,The valley was poorly bound.
+21,target,2,A,The valley was poorly bound.,target,1,F,The cover of the book had an ugly cover.
+22,target,1,A,The box was poorly bound.,target,2,B,The valley was poorly bound.
+23,target,2,B,The valley was poorly bound.,target,1,A,The box was poorly bound.

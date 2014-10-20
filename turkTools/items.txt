@@ -1,0 +1,35 @@
+# target 1 A
+The box was poorly bound.
+
+# target 1 B
+The block was poorly bound.
+
+# target 1 C
+The cover of the book was poorly bound.
+
+# target 1 D
+The box had an ugly cover.
+
+# target 1 E
+The block had an ugly cover.
+
+# target 1 F
+The cover of the book had an ugly cover.
+
+# target 2 A
+The valley was poorly bound.
+
+# target 2 B
+The valley was poorly bound.
+
+# target 2 C
+The valley of the book was poorly bound.
+
+# target 2 D
+The valley had an ugly cover.
+
+# target 2 E
+The valley had an ugly cover.
+
+# target 2 F
+The valley of the book had an ugly cover.
